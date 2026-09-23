@@ -11,7 +11,7 @@ app = modal.App("cig-scraper")
 
 # Constants
 IPFS_BASE_URL = "https://ipfs.io/ipfs/bafybeigvhgkcqqamlukxcmjodalpk2kuy5qzqtx6m4i6pvb7o3ammss3y4"
-TOTAL_NFTS = 9998  # IDs 0-9998
+TOTAL_NFTS = 9998  # Downloads IDs 0-9997
 BATCH_SIZE = 100
 SUBFOLDER = "cig-collection"  # Images stored as cig-collection/0.jpg, etc.
 
